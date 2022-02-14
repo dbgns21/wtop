@@ -1,0 +1,35 @@
+
+#login{
+    width: 300px;
+    height: 330px;
+    margin: auto;
+
+    /* navy_main */
+
+    background: #0C0F17;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding : 20px;
+    border-radius: 10px;
+}
+
+.project-first-name{
+    color: yellow;
+    font-size : xx-large;
+    display: inline;
+}
+
+.project-name{
+    color: white;
+    font-size : xx-large;
+    display: inline;
+}
+
+.sub-name{
+    color: white;
+    font-size : large;
+}
+
+.team-name{
+    color: white;
+    font-size : small;
+}
